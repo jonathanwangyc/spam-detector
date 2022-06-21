@@ -1,1 +1,1 @@
-# Spam_Detector
+# spam-detector
